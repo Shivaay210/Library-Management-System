@@ -33,13 +33,19 @@ Ensure the following are installed on your system:
    source venv/bin/activate   # On Windows: venv\Scripts\activate
    ```
 
-3. **Configure the Database**:
+3. **Install Dependencies**:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Configure the Database**:
 
    - Ensure MySQL is running.
    - Create a database named `library_db`.
-   - Update the database connection details in `setupDB.py`, `app.py`, and `test.py` as needed.
+   - Update the database connection details in `setupDB.py` and `app.py` as needed.
 
-4. **Initialize the Database**:
+5. **Initialize the Database**:
 
    ```bash
    cd utils
@@ -47,7 +53,7 @@ Ensure the following are installed on your system:
    cd ..
    ```
 
-5. **Run the Application**:
+6. **Run the Application**:
 
    ```bash
    python app.py
