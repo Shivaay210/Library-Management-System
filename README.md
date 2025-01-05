@@ -81,6 +81,21 @@ The application follows an **MVC (Model-View-Controller)** architecture:
 - **Member Management Module**:
   - Manages member registrations and updates user profiles.
 
+## Screenshot
+
+<p align="center">
+  <img src="https://github.com/Shivaay210/Library-Management-System/blob/main/Media/Home.jpg" alt="Library Management System Screenshot" width="800" height="400">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Shivaay210/Library-Management-System/blob/main/Media/Books.jpg" alt="Library Management System Screenshot" width="800" height="400">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Shivaay210/Library-Management-System/blob/main/Media/Members.jpg" alt="Library Management System Screenshot" width="800" height="400">
+</p>
+
+
 ## Approach
 
 - **User-Centric Design**: Focused on providing an intuitive interface for librarians to manage library resources.
